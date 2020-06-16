@@ -9,6 +9,8 @@ The following tables contain data on the wands in Ollivander's inventory:
 Wands: The id is the id of the wand, code is the code of the wand, coins_needed is the total number of gold galleons needed to buy the wand, and power denotes the quality of the wand (the higher the power, the better the wand is).
 
 Wands_Property: The code is the code of the wand, age is the age of the wand, and is_evil denotes whether the wand is good for the dark arts. If the value of is_evil is 0, it means that the wand is not evil. The mapping between code and age is one-one.
+
+
 (https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
 ---
 
